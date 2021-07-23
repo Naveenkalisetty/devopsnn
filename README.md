@@ -1,2 +1,0 @@
-# devopsnn
-test from repo
